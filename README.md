@@ -1,4 +1,0 @@
-ControlsSample
-==============
-
-Tinkering with Titanium
